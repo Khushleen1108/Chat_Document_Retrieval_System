@@ -36,15 +36,16 @@ Chat-Document-Retrieval-Assistant/
 ├── .gitignore              # Lists files/directories to be ignored by Git
 ├── requirements.txt        # Python dependencies for the project
 └── README.md               # Project documentation
+```
 
-## Installation
+## Installation:
 
 **Clone the Repository:**
 
 ```bash
 git clone <repository-url>
 cd <repository-name>
-
+```
 
 **Set Up the Environment:**
 
@@ -57,6 +58,7 @@ DB_PORT=your-database-port
 DB_NAME=your-database-name
 DB_USER=your-database-user
 DB_PASSWORD=your-database-password
+```
 
 **Install Dependencies:**
 
@@ -64,6 +66,7 @@ Ensure you have Python 3.8+ installed, then run:
 
 ```bash
 pip install -r requirements.txt
+```
 
 **Run the Application:**
 
@@ -71,7 +74,7 @@ To run the application, use the following command:
 
 ```bash
 python main.py
-
+```
 
 ## Usage
 
